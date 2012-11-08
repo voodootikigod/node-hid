@@ -13,8 +13,6 @@
     },
     "bundleDependencies": [ "hidapi" ],
     "scripts": {
-        "update": "sh get-hidapi.sh",
-        "preinstall": "sh get-hidapi.sh",
         "install": "sh install.sh"
     },
     "main": "./src/HID",
