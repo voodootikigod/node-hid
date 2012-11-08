@@ -15,7 +15,7 @@
     "scripts": {
         "install": "sh install.sh"
     },
-    "main": "./src/HID",
+    "main": "./src/build/Release/HID",
     "engines": {
         "node": ">=0.8.0"
     },
